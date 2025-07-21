@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sheila’s Portfolio</title>
+  <style>
+    body { font-family: sans-serif; margin: 2rem; }
+    h1 { text-align: center; }
+    .artifact { margin-bottom: 3rem; }
+    iframe { width: 100%; height: 800px; border: none; }
+    .note { background: #f0f0f0; padding: 1rem; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <h1>Handout: Managing Sudden Low Blood Sugar</h1>
+  <div class="artifact">
+    <iframe src="Managing Sudden Low Blood Sugar.pdf"></iframe>
+    <div class="note">
+      <strong>Design Note:</strong> This one‑page handout uses a two‑column layout for readability, with clear section headings and 12 pt spacing after each heading. A highlighted call‑out box draws attention to emergency steps. Wording is at an 8th‑grade reading level to ensure accessibility for older adults.
+    </div>
+  </div>
+</body>
+</html>
